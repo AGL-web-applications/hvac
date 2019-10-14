@@ -7,11 +7,10 @@
         "build": "webpack",
         "start": "webpack-dev-server"
     },
-    "homepage": "https://bitbucket.org/smarsol/hvac",
-    "author": "humberto.alfonso@asvito.es",
+    "homepage": "https://github.com/AGL-web-applications/hvac",
     "repository": {
         "type": "git",
-        "url": "git@bitbucket.org:smarsol/hvac.git"
+        "url": "git@github.com:AGL-web-applications/hvac.git"
     },
     "keywords": [
         "agl",
