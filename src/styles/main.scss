@@ -38,6 +38,8 @@ progress {
     width: 100%;
     margin-top: -22px;
     position: absolute;
+    left: 0;
+    top: 33px;
     z-index: -1000;
 }
 
@@ -92,8 +94,6 @@ body {
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: center;
-        margin-top: 10%;
-        margin-bottom: 15%;
 
         .icon {
             flex-basis: 10%;
@@ -117,7 +117,6 @@ body {
         flex-wrap: wrap;
         justify-content: flex-start;
         align-items: flex-start;
-        height: 100%;
 
         .item {
             &:before {
@@ -215,21 +214,11 @@ body {
 
     .bottom {
         display: flex;
-        flex-direction: row;
         flex-wrap: wrap;
         justify-content: flex-start;
         align-items: flex-start;
         height: 100%;
         margin-top: 10%;
-
-        .button {
-            flex-basis: 20%;
-
-            img {
-                width: 80%;
-                margin: 0 10%;
-            }
-        }
     }
 
     .log {
