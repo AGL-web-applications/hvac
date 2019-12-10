@@ -58,7 +58,7 @@ module.exports = {
             path: __dirname + '/dist'
         }),
         new ZipPlugin({
-            path: __dirname + '/dist',
+            path: __dirname + '/package',
             filename: 'hvac',
             extension: 'wgt',
             exclude: []
