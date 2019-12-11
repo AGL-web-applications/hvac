@@ -7,10 +7,10 @@
         "build": "webpack",
         "start": "webpack-dev-server"
     },
-    "homepage": "https://github.com/AGL-web-applications/hvac",
+    "homepage": "https://git.automotivelinux.org/apps/html5-hvac/",
     "repository": {
         "type": "git",
-        "url": "git@github.com:AGL-web-applications/hvac.git"
+        "url": "https://gerrit.automotivelinux.org/gerrit/apps/html5-hvac"
     },
     "keywords": [
         "agl",
